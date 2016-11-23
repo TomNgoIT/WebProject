@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#\MyWeb.Data\bin\Release\MyWeb.Data.dll
+D:\PROGRAMMING\C#\MyWeb.Data\bin\Release\MyWeb.Data.pdb
+D:\PROGRAMMING\C#\MyWeb.Data\obj\Release\MyWeb.Data.dll
+D:\PROGRAMMING\C#\MyWeb.Data\obj\Release\MyWeb.Data.pdb
+D:\PROGRAMMING\C#\MyWeb.Data\obj\Release\MyWeb.Data.csprojResolveAssemblyReference.cache

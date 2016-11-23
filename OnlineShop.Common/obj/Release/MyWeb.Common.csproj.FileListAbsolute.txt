@@ -1,0 +1,6 @@
+D:\PROGRAMMING\C#\MyWeb.Common\bin\Release\MyWeb.Common.dll
+D:\PROGRAMMING\C#\MyWeb.Common\bin\Release\MyWeb.Common.pdb
+D:\PROGRAMMING\C#\MyWeb.Common\bin\Release\FredCK.FCKeditorV2.dll
+D:\PROGRAMMING\C#\MyWeb.Common\obj\Release\MyWeb.Common.dll
+D:\PROGRAMMING\C#\MyWeb.Common\obj\Release\MyWeb.Common.pdb
+D:\PROGRAMMING\C#\MyWeb.Common\obj\Release\MyWeb.Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\PROGRAMMING\C#\MyWeb.Common\bin\Release\OnlineShop.Common.dll
+D:\PROGRAMMING\C#\MyWeb.Common\bin\Release\OnlineShop.Common.pdb
+D:\PROGRAMMING\C#\MyWeb.Common\bin\Release\FredCK.FCKeditorV2.dll
+D:\PROGRAMMING\C#\MyWeb.Common\obj\Release\OnlineShop.Common.dll
+D:\PROGRAMMING\C#\MyWeb.Common\obj\Release\OnlineShop.Common.pdb
+D:\PROGRAMMING\C#\OnlineShop.Common\bin\Release\OnlineShop.Common.dll
+D:\PROGRAMMING\C#\OnlineShop.Common\bin\Release\OnlineShop.Common.pdb
+D:\PROGRAMMING\C#\OnlineShop.Common\bin\Release\FredCK.FCKeditorV2.dll
+D:\PROGRAMMING\C#\OnlineShop.Common\obj\Release\OnlineShop.Common.dll
+D:\PROGRAMMING\C#\OnlineShop.Common\obj\Release\OnlineShop.Common.pdb

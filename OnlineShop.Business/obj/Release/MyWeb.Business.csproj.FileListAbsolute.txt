@@ -1,0 +1,7 @@
+D:\PROGRAMMING\C#\MyWeb.Unit\bin\Release\MyWeb.Business.dll
+D:\PROGRAMMING\C#\MyWeb.Unit\bin\Release\MyWeb.Business.pdb
+D:\PROGRAMMING\C#\MyWeb.Unit\bin\Release\MyWeb.Data.dll
+D:\PROGRAMMING\C#\MyWeb.Unit\bin\Release\MyWeb.Data.pdb
+D:\PROGRAMMING\C#\MyWeb.Unit\obj\Release\MyWeb.Business.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#\MyWeb.Unit\obj\Release\MyWeb.Business.dll
+D:\PROGRAMMING\C#\MyWeb.Unit\obj\Release\MyWeb.Business.pdb

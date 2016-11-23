@@ -1,0 +1,8 @@
+D:\PROGRAMMING\C#\MyWeb.Data\bin\Release\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\MyWeb.Data\bin\Release\OnlineShop.Data.pdb
+D:\PROGRAMMING\C#\MyWeb.Data\obj\Release\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\MyWeb.Data\obj\Release\OnlineShop.Data.pdb
+D:\PROGRAMMING\C#\OnlineShop.Data\bin\Release\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\OnlineShop.Data\bin\Release\OnlineShop.Data.pdb
+D:\PROGRAMMING\C#\OnlineShop.Data\obj\Release\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\OnlineShop.Data\obj\Release\OnlineShop.Data.pdb

@@ -1,0 +1,14 @@
+D:\PROGRAMMING\C#\MyWeb.Unit\bin\Release\OnlineShop.Business.dll
+D:\PROGRAMMING\C#\MyWeb.Unit\bin\Release\OnlineShop.Business.pdb
+D:\PROGRAMMING\C#\MyWeb.Unit\bin\Release\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\MyWeb.Unit\bin\Release\OnlineShop.Data.pdb
+D:\PROGRAMMING\C#\MyWeb.Unit\obj\Release\OnlineShop.Business.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#\MyWeb.Unit\obj\Release\OnlineShop.Business.dll
+D:\PROGRAMMING\C#\MyWeb.Unit\obj\Release\OnlineShop.Business.pdb
+D:\PROGRAMMING\C#\OnlineShop.Business\bin\Release\OnlineShop.Business.dll
+D:\PROGRAMMING\C#\OnlineShop.Business\bin\Release\OnlineShop.Business.pdb
+D:\PROGRAMMING\C#\OnlineShop.Business\bin\Release\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\OnlineShop.Business\bin\Release\OnlineShop.Data.pdb
+D:\PROGRAMMING\C#\OnlineShop.Business\obj\Release\OnlineShop.Business.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#\OnlineShop.Business\obj\Release\OnlineShop.Business.dll
+D:\PROGRAMMING\C#\OnlineShop.Business\obj\Release\OnlineShop.Business.pdb
