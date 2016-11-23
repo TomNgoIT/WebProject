@@ -31,7 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FredCK.FCKeditorV2">
-      <HintPath>..\Full HD Hướng dẫn xây dựng website bán hàng bằng ASP.NET\Project C#\FredCK.FCKeditorV2\FredCK.FCKeditorV2.dll</HintPath>
+      <HintPath>obj\Release\FredCK.FCKeditorV2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

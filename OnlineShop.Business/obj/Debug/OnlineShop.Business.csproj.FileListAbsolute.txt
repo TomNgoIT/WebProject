@@ -1,0 +1,7 @@
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Business\bin\Debug\OnlineShop.Business.dll
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Business\bin\Debug\OnlineShop.Business.pdb
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Business\bin\Debug\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Business\bin\Debug\OnlineShop.Data.pdb
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Business\obj\Debug\OnlineShop.Business.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Business\obj\Debug\OnlineShop.Business.dll
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Business\obj\Debug\OnlineShop.Business.pdb

@@ -1,0 +1,4 @@
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Data\bin\Debug\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Data\bin\Debug\OnlineShop.Data.pdb
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Data\obj\Debug\OnlineShop.Data.dll
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Data\obj\Debug\OnlineShop.Data.pdb

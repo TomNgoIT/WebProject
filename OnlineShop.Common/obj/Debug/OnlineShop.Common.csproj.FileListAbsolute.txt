@@ -1,0 +1,5 @@
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Common\bin\Debug\FredCK.FCKeditorV2.dll
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
+D:\PROGRAMMING\C#\WebProject\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb
